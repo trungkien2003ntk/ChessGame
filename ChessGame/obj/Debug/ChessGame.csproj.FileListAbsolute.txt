@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+C:\Users\ADMIN\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+C:\Users\ADMIN\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+C:\Users\ADMIN\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+C:\Users\ADMIN\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
